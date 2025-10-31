@@ -1,9 +1,3 @@
-Perfeito.
-Segue abaixo o **README completo, técnico e formal em inglês**, totalmente baseado no projeto `MyMovieAPI`, pronto para copiar e colar em seu repositório:
-
----
-
-```markdown
 # MyMovieAPI
 
 ## Overview
@@ -49,7 +43,7 @@ MyMovieAPI/
 ├── Program.cs
 └── MyMovieAPI.csproj
 
-````
+```
 
 ---
 
